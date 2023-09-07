@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171971104539",
+    "project_id": "eventbookingapp-32973",
+    "storage_bucket": "eventbookingapp-32973.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171971104539:android:7853d515b4e4e8e6e9cdbe",
+        "android_client_info": {
+          "package_name": "com.example.eventbookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171971104539-4dodmrhn4n3qirioj804v7agri80iadm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl_gEAUxvrTJhLMRslIU7aYUFUN7IDjjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171971104539-4dodmrhn4n3qirioj804v7agri80iadm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

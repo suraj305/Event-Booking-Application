@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EventBookingApp</string>
+
+    <string-array name="Event_Hall">
+        <item>Geeta Hall</item>
+        <item>Jainam Banquet Hall</item>
+        <item>Shagun Banquet Hall</item>
+        <item>Kalidas Marriage Hall</item>
+        <item>Jagannath Banquet Hall</item>
+    </string-array>
+
+    <string-array name="Address">
+        <item>4WVP+PQW, Bhandup Station Rd, Bhandup, Dina Bama Estate, Bhandup West, Mumbai, Maharashtra 400078</item>
+        <item>Lal Bahadur Shastri Road, Near State Bank of India B.T.M.,Bhandup West, Mumbai, Maharashtra 400078</item>
+        <item>Devidayal Rd, near Fire Station, P and T Staff Colony, Mulund West, Mumbai, Maharashtra 400080</item>
+        <item>Kalidas Marriage Hall, Purshottam, Purushottam Kheraj Rd, Mulund West, Mumbai, Maharashtra 400080</item>
+        <item>Near Dreams Mall, Lal Bahadur Shastri Rd, Dina Bama Estate, Bhandup West, Mumbai, Maharashtra 400078</item>
+    </string-array>
+
+
+    <string-array name="Event_Birthday_Hall">
+        <item></item>
+    </string-array>
+
+    <string-array name="description">
+        <item></item>
+    </string-array>
+</resources>
